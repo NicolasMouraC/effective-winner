@@ -1,0 +1,10 @@
+*-develop.yml
+.docker
+.vscode
+.env
+/.tap
+.env.test
+/node_modules
+coverage
+env
+/src/uploads
